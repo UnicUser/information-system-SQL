@@ -1,0 +1,39 @@
+C:\Users\Егор\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\Егор\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\Егор\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\Егор\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\Егор\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Егор\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Егор\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.LoginForm.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.User.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Admin.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.AddAcc.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.AddRequest.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Registration.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.DeleteAcc.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.EditReq1.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Info.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.WorkerInfo.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.AddRims.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.AddRimsReq.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.AddCustomers.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.EditClients.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.EditRims.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.EditRimsReq.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.DeleteClients.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.DeleteRequest.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.DeleteRims.resources
+C:\Users\Егор\Desktop\Study\4 курс\Дипломыч\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.DeleteRimsRequest.resources
